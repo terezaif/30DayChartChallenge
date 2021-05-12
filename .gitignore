@@ -130,5 +130,5 @@ dmypy.json
 
 data
 */data/
-*/*/*.bsp
+*/bsps
 
