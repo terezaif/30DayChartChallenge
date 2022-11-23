@@ -1,0 +1,8 @@
+pandas
+pyarrow
+fugue
+ipython
+sqlalchemy
+numpy
+duckdb
+ipykernel
